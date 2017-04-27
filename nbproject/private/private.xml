@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/analyzor/LinkAnalyzor.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/controller/SiteController.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/objects/ObjectToCrawl.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/objects/SiteToCrawl.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/controller/CrawlerController.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/db/ImageToCrawlSqlHelper.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/controller/HostController.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/ImageDownload.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/CrawlerRun.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/test/de/cmt/crawler/analyzor/LinkAnalyzorTest.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/RunnableSample.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/controller/SiteCrawlerController.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/sql/install.mysql.sql</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/db/SiteToCrawlSqlHelper.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/analyzor/HtmlAnalyzor.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/Md5Test.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/controller/Controller.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/controller/ImageCrawlerController.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/objects/ImageToCrawl.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/objects/CrawlInterface.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/src/de/cmt/crawler/Crawler.java</file>
+            <file>file:/C:/Users/cmt/Documents/NetBeansProjects/Crawler/test/de/cmt/crawler/analyzor/HostFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
